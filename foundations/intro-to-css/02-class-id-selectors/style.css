@@ -1,0 +1,27 @@
+* {
+    background-color: #b05454;
+}
+
+.odd {
+    background-color: #383232;
+    color: antiquewhite;
+    font-size: 32px;
+
+}
+
+.third {
+    background-color: #01b969;
+    color: antiquewhite;
+    font-size: 24px;
+}
+
+#second {
+    color: rgb(180, 170, 250);
+    font-size: 36px;
+}
+
+#fourth {
+    color: rgb(147, 204, 174);
+    font-size: 24px;
+    font-weight: bold;
+}

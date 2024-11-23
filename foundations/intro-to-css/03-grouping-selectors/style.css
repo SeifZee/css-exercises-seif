@@ -1,0 +1,17 @@
+.one {
+    background-color: aquamarine;
+    color: black;
+}
+
+.two {
+    background-color: rgb(9, 13, 12);
+    color: rgb(236, 220, 220);
+}
+
+.one, .two {
+    font-size: 60px;
+    border-color: rgb(234, 87, 92);
+    border-width: 0.1cm;
+    border-style: dashed;
+    border-radius: 0.2cm;
+}
